@@ -27,7 +27,11 @@ aside {
   margin-top: 50px;
 }
 .social-media {
-  margin-left: 40px;
+  padding-left: 40px;
+}
+
+.social-second-element {
+  padding-left: 20px;
 }
 .contact-links {
   color: #ffffff;
